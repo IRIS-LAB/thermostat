@@ -1,4 +1,4 @@
-# Application de thermostat connecté
+# PROJET EN COURS DE REALISATION : Application de thermostat connecté
 
 ## Objectifs
 Permettre de piloter le réseau basse tension distant d'un thermostat de chaudière via une connection distante 2G (SMS)
