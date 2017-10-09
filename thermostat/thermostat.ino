@@ -1,4 +1,4 @@
-/*
+/* 
   Project de pilotage de themrostat :
   - Ordres par SMS avec accusee de reception
   - Contrele de bonne connexion, reception et envoi par diode RGB

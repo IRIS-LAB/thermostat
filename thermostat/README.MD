@@ -1,4 +1,4 @@
-# PROJET EN COURS DE REALISATION : Application de thermostat connecté
+# *PROJET EN COURS DE REALISATION* : Application de thermostat connecté
 
 ## Objectifs
 Permettre de piloter le réseau basse tension distant d'un thermostat de chaudière via une connection distante 2G (SMS)
@@ -14,5 +14,7 @@ Permettre de piloter le réseau basse tension distant d'un thermostat de chaudi�
 ## Schéma du montage
 ![Schéma](https://github.com/IRIS-LAB/julien/blob/master/thermostat/Thermostat.png)
 [Schéma du circuit sous Tinkercad](https://www.tinkercad.com/things/bOKf7TTl9bY-thermostat/editel?sharecode=k6dUCqKOuqLPY_ALAoaU46QItPdpttJL33RTVWE1nWM=)
+
+
 
 [//]: # (Un commentaire)
